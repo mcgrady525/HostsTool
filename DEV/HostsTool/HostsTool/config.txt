@@ -1,0 +1,10 @@
+#改完 hosts 文件，记得运行命令： ipconfig /flushdns
+
+#local:
+127.0.0.1 localhost.dev.ssharing.com
+
+#dev.142
+192.168.1.142 dev.ssharing.com
+
+#test.11
+192.168.1.11 test.ssharing.com
