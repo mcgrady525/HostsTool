@@ -4,7 +4,7 @@
 127.0.0.1 localhost.dev.ssharing.com
 
 #dev.142
-192.168.1.142 dev.ssharing.com
+192.168.1.142 ubtrip.dev.ssharing.com
 
 #test.11
-192.168.1.11 test.ssharing.com
+192.168.1.11 ubtrip.test.ssharing.com
