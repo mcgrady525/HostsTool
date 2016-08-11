@@ -7,4 +7,6 @@
 192.168.1.142 dev.ssharing.com
 
 #test.11
-192.168.1.11 ubtrip.test.ssharing.com
+192.168.1.11 	ubtrip.test.ssharing.com
+192.168.1.11	net.test.ssharing.com
+192.168.1.11	expense.test.ssharing.com
