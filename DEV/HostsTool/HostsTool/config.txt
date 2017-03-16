@@ -4,9 +4,15 @@
 127.0.0.1 localhost.dev.ssharing.com
 
 #dev.142
-192.168.1.142 dev.ssharing.com
+192.168.1.142   ubtrip.dev.ssharing.com
+192.168.1.142   net.dev.ssharing.com
+192.168.1.142   expense.dev.ssharing.com
+192.168.1.142   logapi.dev.ssharing.com
+192.168.1.142   log.dev.ssharing.com
 
 #test.11
 192.168.1.11 	ubtrip.test.ssharing.com
 192.168.1.11	net.test.ssharing.com
 192.168.1.11	expense.test.ssharing.com
+192.168.1.11	logapi.test.ssharing.com
+192.168.1.11	log.test.ssharing.com
