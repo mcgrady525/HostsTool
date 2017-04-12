@@ -14,5 +14,5 @@
 192.168.1.11 	ubtrip.test.ssharing.com
 192.168.1.11	net.test.ssharing.com
 192.168.1.11	expense.test.ssharing.com
-192.168.1.11	logapi.test.ssharing.com
-192.168.1.11	log.test.ssharing.com
+192.168.1.13	logapi.test.ssharing.com
+192.168.1.13	log.test.ssharing.com
