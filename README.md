@@ -3,7 +3,7 @@
 
 ## 模板
 如下图：
-![](http://note.youdao.com/yws/public/resource/4594e1d4d8d4b6e428ecf37c62f794e9/xmlnote/9C07D139FC3A4C09B64746AC92605086/16231)
+![](http://note.youdao.com/yws/public/resource/4594e1d4d8d4b6e428ecf37c62f794e9/xmlnote/E693E49A5A8644AEA654E3F8D59DE986/16241)
 
 ## 运行界面
 如下图：
