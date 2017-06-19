@@ -9,10 +9,14 @@
 192.168.1.142   expense.dev.ssharing.com
 192.168.1.142   logapi.dev.ssharing.com
 192.168.1.142   log.dev.ssharing.com
+192.168.1.142	outin.dev.ssharing.com
+192.168.1.142	autooperateapi.dev.ssharing.com
 
-#test.11
+#test.11&13
 192.168.1.11 	ubtrip.test.ssharing.com
 192.168.1.11	net.test.ssharing.com
 192.168.1.11	expense.test.ssharing.com
 192.168.1.13	logapi.test.ssharing.com
 192.168.1.13	log.test.ssharing.com
+192.168.1.11	outin.test.ssharing.com
+192.168.1.13	autooperateapi.test.ssharing.com
